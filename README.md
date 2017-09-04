@@ -6,6 +6,9 @@ I've used a lot of computer languages, applications and tools in my career to im
 
 Hope someone finds some of this useful.
 
-[Index of solutions](index.ipynb)
+[Bin Packing with Multiple Bin Sizes](notebooks/Bin_Packing_Multiple_Bin_Sizes.ipynb)
+    A brute force approach to selecting the optimal set of bins to meet an order.
 
+more to come...	
+	
 If you have any suggestions or want to make additions, you can contact me via [email](mailto:aldo714@gmail.com)
