@@ -6,4 +6,4 @@ I've used a lot of computer languages, applications and tools in my career to im
 
 Hope someone finds some of this useful.
 
-If you have any suggestions or want to make additions, you can contact me via [email]<aldo714@gmail.com>
+If you have any suggestions or want to make additions, you can contact me via [email](mailto:aldo714@gmail.com)
