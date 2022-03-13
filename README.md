@@ -10,7 +10,10 @@ Hope someone finds some of this useful.
 
 [Bin Packing with Multiple Bin Sizes](notebooks/Bin_Packing_Multiple_Bin_Sizes.ipynb)
     A brute force approach to selecting the optimal set of bins to meet an order.
+    
+[Tramp Steamer Problem with Python](notebooks/Tramp_Steamer.ipynb)
+    A brute force approach to selecting the optimal set of bins to meet an order.
 
-more to come...	
+stay tuned for more...	
 	
 If you have any suggestions or want to make additions, you can contact me via [email](mailto:aldo714@gmail.com)
