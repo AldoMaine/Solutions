@@ -8,12 +8,14 @@ I've used a lot of computer languages, applications and tools in my career to im
 
 Hope someone finds some of this useful.
 
+## Notebooks
+
 [Bin Packing with Multiple Bin Sizes](notebooks/Bin_Packing_Multiple_Bin_Sizes.ipynb)
-    A brute force approach to selecting the optimal set of bins to meet an order.
+    A brute force approach to selecting the optimal set of bins to meet an order when there are multiple stock sizes available. 
     
 [Tramp Steamer Problem with Python](notebooks/Tramp_Steamer.ipynb)
-    A brute force approach to selecting the optimal set of bins to meet an order.
+    A solution to the classic optimization problem of finding the most profitable route for a cargo ship. Sequential search and Binary search are implemented to solve a simple example.
 
-stay tuned for more...	
+to be continued...	
 	
 If you have any suggestions or want to make additions, you can contact me via [email](mailto:aldo714@gmail.com)
