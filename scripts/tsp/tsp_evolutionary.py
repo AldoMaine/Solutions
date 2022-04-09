@@ -527,8 +527,8 @@ def main(city_list):
     tn = timer()
 
     loops = min(ans[2] + STABLE, MAX_GENERATIONS)
-    print(f'Processing time: {(tn-t0):.3g} sec for {loops}'
-          ' iterations.')
+    
+    print(f'Processing time: {(tn-t0):.3g} sec, {loops} iterations.')
     print('Generations to best route: ', ans[2])
     print('Best route: ', [c.index for c in ans[1]])
     print(f'Genetic Algo distance: {1/ans[0][1]:.1f}')
@@ -567,9 +567,9 @@ if __name__ == "__main__":
     # loc_plot(colleges, "Colleges")
 
     NUM_POP = 100  # number of candidate routes generated for each generation
-    MAX_GENERATIONS = 1000  # limit on mating cycles
+    MAX_GENERATIONS = 500  # limit on mating cycles
     ELITES = 10  # auto included in breeding pool, not mutated
-    STABLE = 500
+    STABLE = 150
     MUTATION = .015
 
     main(colleges)

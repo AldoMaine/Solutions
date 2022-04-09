@@ -259,13 +259,29 @@ def find_closest(C, T, colleges):
 
 
 def get_distance(route, dists):
+    """
+    Route distance is determined using values from adjacency matrix.
+
+    Parameters
+    ----------
+    route : TYPE
+        List of indices defining a route.
+    dists : array
+        Adjacency matrix defining a complete, weighted graph.
+
+    Returns
+    -------
+    cost : float
+        Net cost (weight or distance) of route.
+
+    """
     cost = 0
     if route[0] != route[-1]:
         route.append(route[0])
 
     for i in range(len(route)-1):
         cost += dists[route[i], route[i+1]]
-    # cost += dists[route[-1], route[0]]
+
     return cost
 
 
