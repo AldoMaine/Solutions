@@ -17,5 +17,3 @@ Hope someone finds some of this useful.
     A solution to the classic optimization problem of finding the most profitable route for a cargo ship. Sequential search and Binary search are implemented to solve a simple example.
 
 to be continued...	
-	
-If you have any suggestions or want to make additions, you can contact me via [email](mailto:aldo714@gmail.com)
