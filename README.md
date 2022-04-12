@@ -9,9 +9,8 @@ I've used a lot of computer languages, applications and tools in my career to im
 Hope someone finds some of this useful.
 
 ## Notebooks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AldoMaine/Solutions/HEAD)
 
-[Bin Packing with Multiple Bin Sizes](notebooks/Bin_Packing_Multiple_Bin_Sizes.ipynb)
+[Bin Packing with Multiple Bin Sizes](notebooks/Bin_Packing_Multiple_Bin_Sizes.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AldoMaine/Solutions/HEAD?labpath=%2Fnotebooks%2FBin_Packing_Multiple_Bin_Sizes.ipynb)
     A brute force approach to selecting the optimal set of bins to meet an order when there are multiple stock sizes available. 
     
 [Tramp Steamer Problem with Python](notebooks/Tramp_Steamer.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AldoMaine/Solutions/HEAD?labpath=%2Fnotebooks%2FTramp_Steamer.ipynb)
