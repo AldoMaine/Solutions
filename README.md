@@ -10,3 +10,8 @@ A collection of Python scripts and Jupyter notebooks developed to solve optimzat
     A solution to the classic optimization problem of finding the most profitable route for a cargo ship. Sequential search and Binary search are implemented to solve a simple example.
 
 to be continued...	
+
+## About me
+As a retired engineer, I enjoy finding solutions to a variety of problems. I also have an analytical side that leads me to search for a better understanding of the problem and find an optimal solution.   This usually takes the form of a Python script or notebook.
+
+I've used a lot of computer languages, applications and tools in my career to implement solutions; from Fortran to MATLAB. A  colleague suggested I try a scientific distribution of Python.  I found it easy to adopt and the numerical and analysis libraries are awesome. The IPython/Jupyter notebook makes it easy to share code, diagrams and text with others.  I'm running a 64bit Anaconda distribution on Windows 10.    
